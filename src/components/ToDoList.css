@@ -1,0 +1,72 @@
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    text-align: center;
+}
+.box1 {
+    width: 1000px;
+    background-color: #fff;
+    height: 280px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0px 110px rgb(6, 201, 255);
+    color: #ffffff;
+    flex-direction: column;
+    padding: 1rem;
+}
+.note {
+    width: 400px;
+}
+.time-stuff {
+    color: #5f5353aa;
+    position: flex;
+    display: inline-flex;
+    padding: 1rem;
+}
+.relevence {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #5f5353aa;
+    width: 100px;
+}
+.day {
+    display: flex;
+    padding: 0.7rem;
+    flex-direction: column;
+}
+.days {
+    text-align: center;
+    position: flex;
+    display: flex;
+    flex-direction: row;
+    color: #000000;
+    justify-content: center;
+}
+.button {
+    display: inline-flex;
+    position: flex;
+    float: right;
+}
+/*----------------------------------------------------*/
+.box2 {
+    width: 1000px;
+    background-color: #fff;
+    height: 280px;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 1rem;
+    margin: 40px 0 0 0;
+}
+.type-of-data {
+    color: #5f5353aa;
+    display: inline-flex;
+    float: left;
+}
+.data {
+    padding: 0 3.8rem;
+}
